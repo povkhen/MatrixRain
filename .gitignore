@@ -1,4 +1,5 @@
 *.config
 .vs
-bin
-obj
+Properties
+bin/Debug
+obj/Debug
