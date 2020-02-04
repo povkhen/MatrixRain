@@ -28,7 +28,7 @@ namespace v._2
         }
 
         /// <param name="tuple">
-        /// Tuple which contains three items : column, time of thread`s stop(speed),  
+        /// Tuple which contains two items : column, time of thread`s stop(speed)  
         /// </param>
         private static void Update(object tuple)
         {
