@@ -1,0 +1,6 @@
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\obj\Debug\v.1.csprojAssemblyReference.cache
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\obj\Debug\Neo`sProgram.exe
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\obj\Debug\Neo`sProgram.pdb
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\bin\Debug\Neo`sProgram.exe.config
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\bin\Debug\Neo`sProgram.exe
+C:\Users\misha\Projects\Neo`sProgram\Neo`sProgram\bin\Debug\Neo`sProgram.pdb
